@@ -2,7 +2,7 @@ module GoogleDomains exposing (Domain, list)
 
 {-| List of google supported domains: <https://www.google.com/supported_domains>.
 
-@docs Domain list
+@docs Domain, list
 
 -}
 
